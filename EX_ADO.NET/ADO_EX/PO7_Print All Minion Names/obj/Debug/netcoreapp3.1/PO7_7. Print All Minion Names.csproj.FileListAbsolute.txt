@@ -1,0 +1,3 @@
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO7_7. Print All Minion Names\bin\Debug\netcoreapp3.1\PO7_7. Print All Minion Names.exe
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO7_7. Print All Minion Names\obj\Debug\netcoreapp3.1\PO7_7. Print All Minion Names.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO7_7. Print All Minion Names\obj\Debug\netcoreapp3.1\PO7_7. Print All Minion Names.AssemblyInfo.cs

@@ -1,0 +1,41 @@
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\PO3_3. Minion Names.exe
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\obj\Debug\netcoreapp3.1\PO3_3. Minion Names.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\obj\Debug\netcoreapp3.1\PO3_3. Minion Names.AssemblyInfo.cs
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\PO3_3. Minion Names.deps.json
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\PO3_3. Minion Names.runtimeconfig.json
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\PO3_3. Minion Names.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\PO3_3. Minion Names.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\PO3_3. Minion Names.pdb
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\obj\Debug\netcoreapp3.1\PO3_3. Minion Names.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\obj\Debug\netcoreapp3.1\PO3_3. Minion Names.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\obj\Debug\netcoreapp3.1\PO3_3. Minion Names.csproj.CopyComplete
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\obj\Debug\netcoreapp3.1\PO3_3. Minion Names.dll
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\obj\Debug\netcoreapp3.1\PO3_3. Minion Names.pdb
+C:\Users\USER\Desktop\Entity Framework Core\2021\EX_ADO.NET\ADO_EX\PO3\obj\Debug\netcoreapp3.1\PO3_3. Minion Names.genruntimeconfig.cache
